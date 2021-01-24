@@ -1,0 +1,6 @@
+﻿  Main.cpp
+  Process.cpp
+C:\Users\PC\Desktop\NoClipInvisibleFlyHackAssaultCube\Process.cpp(63,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\PC\Desktop\NoClipInvisibleFlyHackAssaultCube\Process.cpp(29): warning C4715: 'GetProcessId': not all control paths return a value
+  NoClipInvisibleFlyHackAssaultCube.vcxproj -> C:\Users\PC\Desktop\NoClipInvisibleFlyHackAssaultCube\Debug\NoClipInvisibleFlyHackAssaultCube.exe

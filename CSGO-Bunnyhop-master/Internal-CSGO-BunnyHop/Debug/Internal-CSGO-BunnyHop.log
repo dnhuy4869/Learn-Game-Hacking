@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\MyFile\Project\CSGOBunnyHop\Internal-CSGO-BunnyHop\dllmain.cpp(27,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\MyFile\Project\CSGOBunnyHop\Internal-CSGO-BunnyHop\dllmain.cpp(35,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Internal-CSGO-BunnyHop.vcxproj -> C:\MyFile\Project\CSGOBunnyHop\Debug\Internal-CSGO-BunnyHop.dll

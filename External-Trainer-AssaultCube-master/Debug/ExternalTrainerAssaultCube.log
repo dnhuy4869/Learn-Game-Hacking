@@ -1,0 +1,4 @@
+﻿  Process.cpp
+C:\Users\PC\Desktop\ExternalTrainerAssaultCube\Process.cpp(63,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\Desktop\ExternalTrainerAssaultCube\Process.cpp(29): warning C4715: 'GetProcessId': not all control paths return a value
+  ExternalTrainerAssaultCube.vcxproj -> C:\Users\PC\Desktop\ExternalTrainerAssaultCube\Debug\ExternalTrainerAssaultCube.exe

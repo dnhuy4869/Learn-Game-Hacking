@@ -1,0 +1,2 @@
+C:\Users\PC\Desktop\DllInjector\Debug\DllInjector.exe
+C:\Users\PC\Desktop\DllInjector\Debug\DllInjector.pdb
